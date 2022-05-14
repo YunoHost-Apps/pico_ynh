@@ -41,8 +41,8 @@
                 "default": "/pico"
             },
             {
-                "name": "name",
-                "type": "name",
+                "name": "site_title",
+                "type": "string",
                 "ask": {
                     "en": "The title of your website",
                     "fr": "Le titre de votre site web"
