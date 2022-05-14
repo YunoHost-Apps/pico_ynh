@@ -102,6 +102,7 @@ datadir=/home/yunohost.app/$app
 ynh_app_setting_set --app=$app --key=datadir --value=$datadir
 
 mkdir -p $datadir
+mkdir -p $datadir/content 
 mkdir -p $datadir/assets 
 mkdir -p $datadir/plugins
 mkdir -p $datadir/themes 
