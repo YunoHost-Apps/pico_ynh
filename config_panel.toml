@@ -10,4 +10,10 @@ name = "Pico configuration"
         ask = "Website title"
         type = "string"
         help = "Customise the title of your website"
-        bind = "site_title:/var/www/pico/config/config.yml"
+        bind = "site_title:/var/www/__APP__/config/config.yml"
+
+        [main.config.theme]
+        ask = "Website theme"
+        choices = ["default", "bitsandpieces", "cutter"]
+        help = "Customise the theme of your website"
+        bind = "theme:/var/www/__APP__/config/config.yml"

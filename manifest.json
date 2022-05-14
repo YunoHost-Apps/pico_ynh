@@ -49,6 +49,20 @@
                 }
             },
             {
+                "name": "theme",
+                "type": "string",
+                "ask": {
+                    "en": "The theme of your website",
+                    "fr": "Le theme de votre site web"
+                },
+                "choices": [
+                    "default",
+                    "bitsandpieces",
+                    "cutter"
+                ],
+                "default": "default"
+            },
+            {
                 "name": "is_public",
                 "type": "boolean",
                 "default": true
