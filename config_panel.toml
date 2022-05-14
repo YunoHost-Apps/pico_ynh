@@ -7,7 +7,7 @@ name = "Pico configuration"
     name = "Configuration Options"
 
         [main.config.site_title]
-        ask = "The title of your website"
+        ask = "Website title"
         type = "string"
         help = "Customise the title of your website"
         bind = "site_title:/var/www/pico/config/config.yml"
