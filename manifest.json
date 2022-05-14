@@ -46,7 +46,7 @@
                 "ask": {
                     "en": "The title of your website",
                     "fr": "Le titre de votre site web"
-                },
+                }
             },
             {
                 "name": "is_public",
