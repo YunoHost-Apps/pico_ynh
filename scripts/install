@@ -28,7 +28,8 @@ domain=$YNH_APP_ARG_DOMAIN
 path_url=$YNH_APP_ARG_PATH
 is_public=$YNH_APP_ARG_IS_PUBLIC
 site_title=$YNH_APP_ARG_SITE_TITLE
-theme=$YNH_APP_ARG_THEME
+
+theme="default"
 
 app=$YNH_APP_INSTANCE_NAME
 
