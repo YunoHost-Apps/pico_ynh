@@ -1,0 +1,7 @@
+SOURCE_URL=https://github.com/picocms/Pico/releases/download/v3.0.0-alpha.2/pico-release-v3.0.0-alpha.2.zip
+SOURCE_SUM=f06dd247e68a62223b2f4300e2458990e19fd91f09f9312ad1a49e5561444997
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=
+SOURCE_EXTRACT=true
