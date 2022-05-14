@@ -82,8 +82,6 @@ chown -R $app:www-data "$final_path"
 #=================================================
 ynh_script_progression --message="Configuring NGINX web server..." --weight=2
 
-### `ynh_add_nginx_config` will use the file conf/nginx.conf
-
 # Create a dedicated NGINX config
 ynh_add_nginx_config
 
@@ -104,6 +102,9 @@ datadir=/home/yunohost.app/$app
 ynh_app_setting_set --app=$app --key=datadir --value=$datadir
 
 mkdir -p $datadir
+mkdir -p $datadir/assets 
+mkdir -p $datadir/plugins
+mkdir -p $datadir/themes 
 
 chmod 750 "$datadir"
 chmod -R o-rwx "$datadir"
