@@ -29,7 +29,7 @@ path_url=$YNH_APP_ARG_PATH
 is_public=$YNH_APP_ARG_IS_PUBLIC
 site_title=$YNH_APP_ARG_SITE_TITLE
 language=$YNH_APP_ARG_LANGUAGE
-
+timezone=$(cat /etc/timezone)
 theme="default"
 
 app=$YNH_APP_INSTANCE_NAME
