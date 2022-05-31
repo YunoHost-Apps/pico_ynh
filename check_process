@@ -3,7 +3,7 @@
 		domain="domain.tld"
 		path="/path"
 		is_public=1
-		language="fr"
+		language="fr_FR"
 		admin="john"
 		password="1Strong-Password"
 	; Checks
