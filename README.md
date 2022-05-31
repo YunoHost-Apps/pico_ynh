@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Pico for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![Working status](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)  
 [![Install Pico with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pico)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -23,26 +23,27 @@ Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mo
 
 ## Screenshots
 
-![](./doc/screenshots/.DS_Store)
-![](./doc/screenshots/68747470733a2f2f7069636f636d732e6769746875622e696f2f73637265656e73686f74732f7069636f2d32312e706e67.png)
+![Screenshot of Pico](./doc/screenshots/.DS_Store)
+![Screenshot of Pico](./doc/screenshots/68747470733a2f2f7069636f636d732e6769746875622e696f2f73637265656e73686f74732f7069636f2d32312e706e67.png)
 
 ## Documentation and resources
 
-* Official app website: https://picocms.org/
-* Official admin documentation: https://picocms.org/docs/
-* Upstream app code repository: https://github.com/picocms/Pico
-* YunoHost documentation for this app: https://yunohost.org/app_pico
-* Report a bug: https://github.com/YunoHost-Apps/pico_ynh/issues
+* Official app website: <https://picocms.org/>
+* Official admin documentation: <https://picocms.org/docs/>
+* Upstream app code repository: <https://github.com/picocms/Pico>
+* YunoHost documentation for this app: <https://yunohost.org/app_pico>
+* Report a bug: <https://github.com/YunoHost-Apps/pico_ynh/issues>
 
 ## Developer info
 
 Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/pico_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
-```
+
+``` bash
 sudo yunohost app install https://github.com/YunoHost-Apps/pico_ynh/tree/testing --debug
 or
 sudo yunohost app upgrade pico -u https://github.com/YunoHost-Apps/pico_ynh/tree/testing --debug
 ```
 
-**More info regarding app packaging:** https://yunohost.org/packaging_apps
+**More info regarding app packaging:** <https://yunohost.org/packaging_apps>
