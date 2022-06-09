@@ -4,7 +4,7 @@
     "packaging_format": 1,
     "description": {
         "en": "Stupidly simple, blazing fast, flat file CMS",
-        "fr": "Stupidly simple, blazing fast, flat file CMS"
+        "fr": "CMS incroyablement simple et rapide comme l'éclair"
     },
     "version": "3.0.0~ynh1",
     "url": "https://picocms.org/",
@@ -17,7 +17,7 @@
     },
     "license": "MIT",
     "maintainer": {
-        "name": "",
+        "name": "eric_G",
         "email": ""
     },
     "requirements": {
