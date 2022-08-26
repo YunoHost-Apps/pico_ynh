@@ -11,7 +11,6 @@
     "upstream": {
         "license": "MIT",
         "website": "https://picocms.org/",
-        "demo": "https://demo.example.com",
         "admindoc": "https://picocms.org/docs/",
         "code": "https://github.com/picocms/Pico"
     },
@@ -21,7 +20,7 @@
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.3.0"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
