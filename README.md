@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Pico for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![Working status](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![Working status](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)
 [![Install Pico with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pico)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -18,7 +18,6 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mouthful, what does it even mean? In the most basic sense, it means that there is no administration backend or database to deal with. You simply create markdown files in the content folder and those files become your pages. There’s much more to Pico than that though.
 
 **Shipped version:** 3.0.0~ynh1
-
 
 ## Screenshots
 
