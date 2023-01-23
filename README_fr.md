@@ -22,7 +22,7 @@ Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mo
 ## Captures d’écran
 
 ![Capture d’écran de Pico](./doc/screenshots/.DS_Store)
-![Capture d’écran de Pico](./doc/screenshots/68747470733a2f2f7069636f636d732e6769746875622e696f2f73637265656e73686f74732f7069636f2d32312e706e67.png)
+![Capture d’écran de Pico](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
