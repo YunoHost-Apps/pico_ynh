@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Pico for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![Working status](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)
+
 [![Install Pico with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pico)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -21,7 +22,6 @@ Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mo
 
 ## Screenshots
 
-![Screenshot of Pico](./doc/screenshots/.DS_Store)
 ![Screenshot of Pico](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
