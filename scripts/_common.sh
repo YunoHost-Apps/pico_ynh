@@ -4,10 +4,6 @@
 # COMMON VARIABLES
 #=================================================
 
-#REMOVEME? YNH_PHP_VERSION="8.0"
-
-#REMOVEME? pkg_dependencies="php${YNH_PHP_VERSION}-dom php${YNH_PHP_VERSION}-mbstring"
-
 #=================================================
 # PERSONAL HELPERS
 #=================================================
