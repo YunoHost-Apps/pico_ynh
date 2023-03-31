@@ -5,31 +5,30 @@ It shall NOT be edited by hand.
 
 # Pico pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)
+
 [![Installer Pico avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=pico)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Pico rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Pico rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mouthful, what does it even mean? In the most basic sense, it means that there is no administration backend or database to deal with. You simply create markdown files in the content folder and those files become your pages. There’s much more to Pico than that though.
 
-**Version incluse :** 3.0.0~ynh1
+**Version incluse :** 3.0.0~ynh1
 
+## Captures d’écran
 
-## Captures d'écran
-
-![Capture d'écran de Pico](./doc/screenshots/.DS_Store)
-![Capture d'écran de Pico](./doc/screenshots/68747470733a2f2f7069636f636d732e6769746875622e696f2f73637265656e73686f74732f7069636f2d32312e706e67.png)
+![Capture d’écran de Pico](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://picocms.org/>
-* Documentation officielle de l'admin : <https://picocms.org/docs/>
-* Dépôt de code officiel de l'app : <https://github.com/picocms/Pico>
+* Site officiel de l’app : <https://picocms.org/>
+* Documentation officielle de l’admin : <https://picocms.org/docs/>
+* Dépôt de code officiel de l’app : <https://github.com/picocms/Pico>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_pico>
 * Signaler un bug : <https://github.com/YunoHost-Apps/pico_ynh/issues>
 
@@ -45,4 +44,4 @@ ou
 sudo yunohost app upgrade pico -u https://github.com/YunoHost-Apps/pico_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
