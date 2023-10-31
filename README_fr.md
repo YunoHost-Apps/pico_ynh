@@ -29,7 +29,7 @@ Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mo
 * Site officiel de l’app : <https://picocms.org/>
 * Documentation officielle de l’admin : <https://picocms.org/docs/>
 * Dépôt de code officiel de l’app : <https://github.com/picocms/Pico>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_pico>
+* YunoHost Store: <https://apps.yunohost.org/app/pico>
 * Signaler un bug : <https://github.com/YunoHost-Apps/pico_ynh/issues>
 
 ## Informations pour les développeurs
