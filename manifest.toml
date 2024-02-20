@@ -47,6 +47,7 @@ ram.runtime = "50M"
         url = "https://github.com/picocms/Pico/releases/download/v3.0.0-alpha.2/pico-release-v3.0.0-alpha.2.zip"
         sha256 = "f06dd247e68a62223b2f4300e2458990e19fd91f09f9312ad1a49e5561444997"
         in_subdir = false
+        autoupdate.strategy = "latest_github_release"
 
     [resources.system_user]
 
