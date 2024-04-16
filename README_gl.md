@@ -18,7 +18,7 @@ NON debe editarse manualmente.
 
 Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mouthful, what does it even mean? In the most basic sense, it means that there is no administration backend or database to deal with. You simply create markdown files in the content folder and those files become your pages. There’s much more to Pico than that though.
 
-**Versión proporcionada:** 3.0.0~ynh1
+**Versión proporcionada:** 3.0.0~ynh2
 
 ## Capturas de pantalla
 
