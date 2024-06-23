@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Pico
+# YunoHost 上的 Pico
 
 [![集成程度](https://dash.yunohost.org/integration/pico.svg)](https://dash.yunohost.org/appci/app/pico) ![工作状态](https://ci-apps.yunohost.org/ci/badges/pico.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/pico.maintain.svg)
 
@@ -23,6 +23,10 @@ Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mo
 ## 截图
 
 ![Pico 的截图](./doc/screenshots/screenshot.png)
+
+## :red_circle: 负面特征
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## 文档与资源
 

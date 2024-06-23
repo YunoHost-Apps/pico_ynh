@@ -24,6 +24,10 @@ Pico is a stupidly simple, blazing fast, flat file CMS. That’s definitely a mo
 
 ![Captura de pantalla de Pico](./doc/screenshots/screenshot.png)
 
+## :red_circle: Debes considerar
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentación e recursos
 
 - Web oficial da app: <https://picocms.org/>
