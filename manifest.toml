@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "pico"
 name = "Pico"
-description.en = "Stupidly simple, blazing fast, flat file CMS"
-description.fr = "CMS incroyablement simple et rapide comme l'éclair"
+description.en = "Stupidly simple, fast, flat file CMS"
+description.fr = "CMS incroyablement simple et rapide"
 
 version = "3.0.0~ynh3"
 
@@ -18,12 +18,15 @@ admindoc = "https://picocms.org/docs/"
 code = "https://github.com/picocms/Pico"
 
 [integration]
-yunohost = ">= 11.2.18"
+yunohost = ">= 12.0.9"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
+
 ldap = false
+
 sso = false
+
 disk = "50M"
 ram.build = "50M"
 ram.runtime = "50M"
@@ -38,7 +41,7 @@ ram.runtime = "50M"
 
     [install.site_title]
     ask.en = "The title of your website"
-    ask.fr = "Le titre de votre site web"
+    ask.fr = "Le titre de votre site Web"
     type = "string"
 
     [install.init_main_permission]
