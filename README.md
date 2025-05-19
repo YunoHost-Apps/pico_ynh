@@ -4,14 +4,14 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/master/logos/pico.png" width="32px" alt="Logo of Pico">
+  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/pico.png" width="32px" alt="Logo of Pico">
   Pico, packaged for YunoHost
 </h1>
 
-Stupidly simple, blazing fast, flat file CMS
+Stupidly simple, fast, flat file CMS
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://picocms.org/)
-![Version: 3.0.0~ynh3](https://img.shields.io/badge/Version-3.0.0~ynh3-rgba(0,150,0,1)?style=for-the-badge)
+[![Version: 3.0.0~ynh3](https://img.shields.io/badge/Version-3.0.0~ynh3-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/pico/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/pico"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
